@@ -1,0 +1,6 @@
+framework module Pods_sol_td09 {
+  umbrella header "Pods-sol-td09-umbrella.h"
+
+  export *
+  module * { export * }
+}
